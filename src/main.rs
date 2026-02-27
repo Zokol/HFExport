@@ -1,4 +1,4 @@
-mod api;#
+mod api;
 mod config;
 mod downloader;
 mod xet;
